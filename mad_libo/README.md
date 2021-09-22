@@ -1,6 +1,6 @@
 # mad_libo
 
-This is a mad libs game. The algorithm for generating random mad libs game is already present. <bd\>You just have to add a UI design for each mad libs game and also add mad libs game according to their genres.
+This is a mad libs game. The algorithm for generating random mad libs game is already present. <br\>You just have to add a UI design for each mad libs game and also add mad libs game according to their genres.
 
 ## Getting Started
 
